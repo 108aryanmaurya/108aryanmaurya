@@ -5,6 +5,9 @@ import java.util.Arrays;
 public class row_colwise_sorted {
     public static void main(String[] args) {
         int [][] arr={
+//                {1,2,3,4,5},
+//                {6,7,8,9,10},
+//                {11,12,13,14,15}
                 {21,34,45},
                 {23,45,54},
                 {26,49,60},
