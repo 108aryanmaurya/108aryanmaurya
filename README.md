@@ -8,7 +8,7 @@ I've been working as a full-stack developer in a startup.
 
 * 🌍  I'm based in Pune
 * ✉️  You can contact me at [108aryanmaurya@gmail.com](mailto:108aryanmaurya@gmail.com)
-* 🧠  I'm learning DSA
+* 🧠  I'm currently learning DevOps,GenAI and DSA
 
 ### Skills
 
