@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer
 --------------------
 
-I've been working as a full-stack developer in a startup.
+I've been working as a Full-stack developer at a startup.
 
 * 🌍  I'm based in Pune
 * ✉️  You can contact me at [108aryanmaurya@gmail.com](mailto:108aryanmaurya@gmail.com)
-* 🧠  I'm currently learning DevOps,GenAI and DSA
+* 🧠  I'm currently learning  Generative-AI, System Design and DSA
 
 ### Skills
 
