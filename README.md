@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aryan Maurya
 ====================================================================================================================================
 
-Full-Stack Developer
+Software Developer
 --------------------
 
-I've been working as a Full-stack developer at a startup.
+I've been working as a Software developer at a startup.
 
 * ✉️  You can contact me at [108aryanmaurya@gmail.com](mailto:108aryanmaurya@gmail.com)
 
