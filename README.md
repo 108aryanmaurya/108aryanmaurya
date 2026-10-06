@@ -6,9 +6,7 @@ Full-Stack Developer
 
 I've been working as a Full-stack developer at a startup.
 
-* 🌍  I'm based in Pune
 * ✉️  You can contact me at [108aryanmaurya@gmail.com](mailto:108aryanmaurya@gmail.com)
-* 🧠  I'm currently learning  Generative-AI, System Design and DSA
 
 ### Skills
 
